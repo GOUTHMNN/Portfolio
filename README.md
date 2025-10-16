@@ -1,5 +1,7 @@
 # Portfolio
 index.html
 style.css
-assets/   ← folder with images
+assets/  
+    background.jpg
+    profile.jpg
 

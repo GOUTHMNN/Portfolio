@@ -57,7 +57,7 @@ header {
 
 /* ===== Hero Section ===== */
 #hero {
-    background: url('assets/background.jpg') no-repeat center center/cover;
+    background: url('background.jpg') no-repeat center center/cover;
     color: #fff;
     height: 80vh;
     display: flex;
@@ -180,4 +180,5 @@ footer {
     text-align: center;
     padding: 15px 0;
     font-size: 0.9em;
+
 }
